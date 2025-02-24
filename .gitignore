@@ -7,3 +7,4 @@ src/actions-1000.npy
 src/after-image-1000.npy
 src/before-image-1000.npy
 src/after-object-location-1000.npy
+data/*
