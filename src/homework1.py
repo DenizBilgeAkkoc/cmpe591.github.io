@@ -87,9 +87,5 @@ def collect(idx, N):
 
 if __name__ == "__main__":
     processes = []
-    for i in range(4):
-        p = Process(target=collect, args=(i, 100))
-        p.start()
-        processes.append(p)
-    for p in processes:
-        p.join()
+    collect(0, 1000)
+

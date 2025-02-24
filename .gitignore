@@ -2,3 +2,8 @@
 __pycache__
 .vscode
 src/data
+src/unet_deneme.py
+src/actions-1000.npy
+src/after-image-1000.npy
+src/before-image-1000.npy
+src/after-object-location-1000.npy
