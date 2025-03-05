@@ -1,5 +1,4 @@
 # CMPE591: Deep Learning in Robotics
-Homeworks
 This repo is forked from main cmpe591 repository. Homework files are under src folder.
 
 Homework 2 Plots
